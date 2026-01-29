@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.env
+.ipynb_checkpoints/
+chrome_profile/
+user_data/
+Default/
+Cache/
